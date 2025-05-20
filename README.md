@@ -34,6 +34,10 @@ This project aims to detect Parkinson's disease through machine learning techniq
 ## Lincense
 This project is licensed under the <a href="https://github.com/mehtahet619/ParkinsonDiseaseDetection/blob/main/LICENSE" target="_blank"> License </a>
 
+## Contributors
+- [@mehtahet619](https://github.com/mehtahet619) - ML & Flask Integration
+- [@your-teammate](https://github.com/your-teammate) - UI Design
+
 ## ⚙️ Installation
 
 1. **Clone the Repository:**
