@@ -36,7 +36,8 @@ This project is licensed under the <a href="https://github.com/mehtahet619/Parki
 
 ## Contributors
 - [@mehtahet619](https://github.com/mehtahet619) - ML & Flask Integration
-- [@your-teammate](https://github.com/your-teammate) - Documentation
+
+- Documentation
 
 ## ⚙️ Installation
 
